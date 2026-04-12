@@ -1,2 +1,2 @@
 # My-Portfolio
-I am a frontend web developer with strong skills of HTML and CSS (Bootstrap also) and this is my portfolio.
+I am a frontend web developer with strong skills of HTML, CSS ,Responsive design and Bootstrap also .And this is my portfolio page.
