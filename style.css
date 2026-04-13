@@ -6,17 +6,17 @@
 }
 
 body {
-  background: #f4f4f4;
+  background: #afa8a8;
 
 }
 h1,h2
 {
-  color:#2c3e5O;
+  color:#395203;
 }
 
 .container {
   max-width: 800px;
-  background: white;
+  background: rgb(233, 225, 203);
   margin: 20px auto;
   padding: 20px;
   border-radius: 8px;
@@ -27,19 +27,23 @@ h1,h2
 header {
   text-align: center;
   margin-bottom: 20px;
-  background:#3498db:
+  background:#cddae3:
   color:white:
 text-align:center;
 padding:20px;
 }
 
 header h1 {
-  color: #333;
-  text-align:center:
+  color: #0c0c0c;
+  text-align:center;
+  font-size: xx-large;
+background: #afa5ab;
 }
 
 header p {
-  color: #007bffs;
+  color: #4a042c;
+  font-weight: 300;
+  background: #fbfcfc;
 }
 
 /* Sections */
@@ -54,7 +58,7 @@ section {
     transform:scale(1.02);}
 
 h2 {
-  border-bottom: 2px solid #333;
+  border-bottom: 2px solid #080808;
   margin-bottom: 10px;
   padding-bottom: 5px;
 }
@@ -63,15 +67,23 @@ h2 {
 ul {
   list-style: square;
   padding-left: 20px;
+  font-weight: 300;
+  font-size: x-large;
+  background-color: #afa5ab;
 }
   .skills span{
-    background:#3498db;
+    background:#528b99;
     color:white;
+font-weight: 200;}
     
 
 /* Projects */
 .project {
-  background: #f9f9f9;
+h3 
+{
+    color:brown
+}
+  background: #a8a3a3;
   padding: 10px;
   margin-top: 10px;
   border-left: 4px solid #333;
